@@ -1,0 +1,8 @@
+.github-link {
+    color: #999; /* Your default link color */
+    text-decoration: none; /* Remove the default underline */
+  }
+
+.github-link:hover {
+    color: #f59
+}

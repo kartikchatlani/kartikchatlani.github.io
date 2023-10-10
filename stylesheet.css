@@ -1,8 +1,18 @@
-.github-link {
-    color: #999; 
-    text-decoration: none; 
-  }
 
-.github-link:hover {
+#github-link:hover {
     color: #f59
+}
+
+p {
+    color: #999
+}
+
+.text {
+    color: #147
+}
+
+.section {
+    padding-left: 70px;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
